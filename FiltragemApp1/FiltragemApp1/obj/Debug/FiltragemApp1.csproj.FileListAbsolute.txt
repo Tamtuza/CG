@@ -1,0 +1,9 @@
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\FiltragemApp1\FiltragemApp1\bin\Debug\FiltragemApp1.exe.config
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\FiltragemApp1\FiltragemApp1\obj\Debug\FiltragemApp1.csprojResolveAssemblyReference.cache
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\FiltragemApp1\FiltragemApp1\obj\Debug\FiltragemApp1.Properties.Resources.resources
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\FiltragemApp1\FiltragemApp1\obj\Debug\FiltragemApp1.csproj.GenerateResource.Cache
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\FiltragemApp1\FiltragemApp1\obj\Debug\FiltragemApp1.Form1.resources
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\FiltragemApp1\FiltragemApp1\bin\Debug\FiltragemApp1.exe
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\FiltragemApp1\FiltragemApp1\bin\Debug\FiltragemApp1.pdb
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\FiltragemApp1\FiltragemApp1\obj\Debug\FiltragemApp1.exe
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\FiltragemApp1\FiltragemApp1\obj\Debug\FiltragemApp1.pdb

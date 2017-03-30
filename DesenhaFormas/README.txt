@@ -1,0 +1,1 @@
+Projeto introdutório da disciplina de computação gráfica onde são desenhadas linhas e outras formas em posições determinadas de uma imagem.

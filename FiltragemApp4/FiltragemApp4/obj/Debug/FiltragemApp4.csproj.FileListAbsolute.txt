@@ -1,0 +1,8 @@
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\FiltragemApp4\FiltragemApp4\bin\Debug\FiltragemApp4.exe.config
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\FiltragemApp4\FiltragemApp4\bin\Debug\FiltragemApp4.exe
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\FiltragemApp4\FiltragemApp4\bin\Debug\FiltragemApp4.pdb
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\FiltragemApp4\FiltragemApp4\obj\Debug\FiltragemApp4.Form1.resources
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\FiltragemApp4\FiltragemApp4\obj\Debug\FiltragemApp4.Properties.Resources.resources
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\FiltragemApp4\FiltragemApp4\obj\Debug\FiltragemApp4.csproj.GenerateResource.Cache
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\FiltragemApp4\FiltragemApp4\obj\Debug\FiltragemApp4.exe
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\FiltragemApp4\FiltragemApp4\obj\Debug\FiltragemApp4.pdb

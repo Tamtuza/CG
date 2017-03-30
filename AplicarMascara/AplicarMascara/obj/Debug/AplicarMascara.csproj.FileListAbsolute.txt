@@ -1,0 +1,9 @@
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\AplicarMascara\AplicarMascara\bin\Debug\AplicarMascara.exe.config
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\AplicarMascara\AplicarMascara\bin\Debug\AplicarMascara.exe
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\AplicarMascara\AplicarMascara\bin\Debug\AplicarMascara.pdb
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\AplicarMascara\AplicarMascara\obj\Debug\AplicarMascara.csprojResolveAssemblyReference.cache
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\AplicarMascara\AplicarMascara\obj\Debug\AplicarMascara.Form1.resources
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\AplicarMascara\AplicarMascara\obj\Debug\AplicarMascara.Properties.Resources.resources
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\AplicarMascara\AplicarMascara\obj\Debug\AplicarMascara.csproj.GenerateResource.Cache
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\AplicarMascara\AplicarMascara\obj\Debug\AplicarMascara.exe
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\AplicarMascara\AplicarMascara\obj\Debug\AplicarMascara.pdb

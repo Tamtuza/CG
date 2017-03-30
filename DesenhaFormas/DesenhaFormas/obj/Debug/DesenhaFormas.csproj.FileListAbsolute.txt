@@ -1,0 +1,9 @@
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\DesenhaFormas\DesenhaFormas\bin\Debug\DesenhaFormas.exe.config
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\DesenhaFormas\DesenhaFormas\obj\Debug\DesenhaFormas.csprojResolveAssemblyReference.cache
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\DesenhaFormas\DesenhaFormas\obj\Debug\DesenhaFormas.Properties.Resources.resources
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\DesenhaFormas\DesenhaFormas\obj\Debug\DesenhaFormas.csproj.GenerateResource.Cache
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\DesenhaFormas\DesenhaFormas\bin\Debug\DesenhaFormas.exe
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\DesenhaFormas\DesenhaFormas\bin\Debug\DesenhaFormas.pdb
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\DesenhaFormas\DesenhaFormas\obj\Debug\DesenhaFormas.exe
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\DesenhaFormas\DesenhaFormas\obj\Debug\DesenhaFormas.pdb
+C:\Users\Tamillys\Documents\Visual Studio 2012\Projects\DesenhaFormas\DesenhaFormas\obj\Debug\DesenhaFormas.Form1.resources
