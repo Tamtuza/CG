@@ -1,0 +1,1 @@
+Projeto que utiliza duas imagens e as une aplicando uma máscara com base na terceira imagem, criando assim uma quarta imagem.
